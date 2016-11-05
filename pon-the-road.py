@@ -13,7 +13,7 @@ with open("source.txt") as f:
 # Build the model.
 text_model = markovify.Text(text)
 
-for i in range(2500):
+for i in range(250):
     # Print five randomly-generated sentences
     for i in range(random.randint(3,10)):
         print(text_model.make_sentence())
