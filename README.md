@@ -1,5 +1,4 @@
-Pon The Road
-============
+# Pon The Road
 
 Pon The Road is a generated novel (based on simple markov generation library Markovify) by *Jack Khrouac*.
 
@@ -8,9 +7,9 @@ Pon The Road was generated for [NaNoGenMo 2016](https://github.com/NaNoGenMo/201
 Enjoy.
 
 
-###Excerpt from Pon The Road
+### Excerpt from Pon The Road
 
-###By Jack Khrouac
+### By Jack Khrouac
 
 He said he had wild bop night again.
 That night it was.
