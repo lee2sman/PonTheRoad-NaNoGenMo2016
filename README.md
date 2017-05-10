@@ -6,6 +6,7 @@ Pon The Road was generated for [NaNoGenMo 2016](https://github.com/NaNoGenMo/201
 
 Enjoy.
 
+![Cover Image](https://github.com/lee2sman/PonTheRoad/blob/master/PonTheRoad-cover.png)
 
 ### Excerpt from Pon The Road
 
